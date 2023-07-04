@@ -1,6 +1,6 @@
 # Sample-Super-Store-Dashboard
 
-In these Dashboard we work on:
+In this dashboard, we work on:
 
 •	Worked on the 4 years of sales data of the company.
 
